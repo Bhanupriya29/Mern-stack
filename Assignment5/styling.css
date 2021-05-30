@@ -1,0 +1,36 @@
+h3{
+    text-align: center;
+}
+.logo{
+    position: relative;
+}
+
+img{
+    margin: 50px 110px 0px 110px; 
+    
+}
+.border{
+    border: 1px solid;
+    border-color: gainsboro;
+    border-radius: 10px;
+    padding: 20px 10px 10px 10px;
+    margin-bottom: 20px;
+
+}
+#first{
+    background: gainsboro;
+}
+#paragraph{
+    float: right;
+    
+}
+.footer{
+    text-indent: 30px;
+    word-spacing: 10px;
+    text-decoration: none;
+}
+#con{
+    text-decoration: none;
+    color: black;
+    word-spacing: 0px;
+}
